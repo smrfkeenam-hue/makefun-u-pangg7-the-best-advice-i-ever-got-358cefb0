@@ -2,8 +2,8 @@
 
 One sentence, 179 characters, about the best advice the writer ever received: Grandma, shelling peas on the porch the night Dad left, on how to know who to marry.
 
-![make.fun](https://make.fun/badge/u-pangg7-the-best-advice-i-ever-got-358cefb0.svg)
-![rank](https://make.fun/badge/u-pangg7-the-best-advice-i-ever-got-358cefb0/smrfkeenam-hue/makefun-u-pangg7-the-best-advice-i-ever-got-358cefb0/rank.svg)
-![reward](https://make.fun/badge/u-pangg7-the-best-advice-i-ever-got-358cefb0/smrfkeenam-hue/makefun-u-pangg7-the-best-advice-i-ever-got-358cefb0/reward.svg)
+[![make.fun · u-pangg7-the-best-advice-i-ever-got-358cefb0](https://make.fun/badge/u-pangg7-the-best-advice-i-ever-got-358cefb0.svg)](https://make.fun/bounty/u-pangg7-the-best-advice-i-ever-got-358cefb0?utm_source=github&utm_medium=readme&utm_campaign=u-pangg7-the-best-advice-i-ever-got-358cefb0)
+[![rank](https://make.fun/badge/u-pangg7-the-best-advice-i-ever-got-358cefb0/smrfkeenam-hue/makefun-u-pangg7-the-best-advice-i-ever-got-358cefb0/rank.svg)](https://make.fun/bounty/u-pangg7-the-best-advice-i-ever-got-358cefb0/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-pangg7-the-best-advice-i-ever-got-358cefb0)
+[![reward](https://make.fun/badge/u-pangg7-the-best-advice-i-ever-got-358cefb0/smrfkeenam-hue/makefun-u-pangg7-the-best-advice-i-ever-got-358cefb0/reward.svg)](https://make.fun/bounty/u-pangg7-the-best-advice-i-ever-got-358cefb0?utm_source=github&utm_medium=readme&utm_campaign=u-pangg7-the-best-advice-i-ever-got-358cefb0)
 
-Competition: https://make.fun/c/u-pangg7-the-best-advice-i-ever-got-358cefb0
+Competition: https://make.fun/bounty/u-pangg7-the-best-advice-i-ever-got-358cefb0
